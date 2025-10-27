@@ -49,7 +49,8 @@ span.add	{font-style:italic}
 .notemark:hover .popup	{display:block}
 .notemark:hover .crpopup	{display:block}
 .b	{display:block;margin-left:12em;text-indent:-2em}
-.bdit,.bk	{font-weight:bold;font-style:italic}
+.bdit,.bk,.fk	{font-weight:bold;font-style:italic}
+.fw {font-weight:bold}
 .ebm,.ebp,.ebq1,.ebq2,.ebq3,.cov,.cd,.conc,.cls	{display:block;margin:.5em 0 .5em 0}
 .cd,.conc,.cls	{text-align:justify}
 .cd,.conc	{color:rgb(0,0,128)}
@@ -104,10 +105,11 @@ h1,h2,h3,.mt,.mt1,.mte,
 .mte1,.mt2,.mte2,.mt3,.mte3	{font-weight:bold;font-size:1.2em;text-align:center}
 .mt,.mt1,.mte,.mte1	{font-size:1.4em}
 .mt2,mte2	{font-size:1.2em}
-.qac,.k1,.nd,.sc,.xk,.k,.ior,.bd,.em	{font-weight:bold}
+.qac,.k1,.nd,.xk,.k,.ior,.bd	{font-weight:bold}
+.sc {font-variant: small-caps}
 .qs	{text-align:right}
 .ndx,.no,.ft	{font-weight:normal}
-.rr,.rq,.rq,.fq,.fqa,.it,.sls,.sp	{font-style:italic}
+.rr,.rq,.rq,.fq,.fqa,.it,.em,.sls,.sp	{font-style:italic}
 .w,.wg,.wh,.wr,.zc	{font-style:normal}
 .wj	{color:rgb(128,0,0)}
 .qt	{font-style:oblique}
@@ -154,18 +156,18 @@ html[dir=rtl] .q3	{text-indent:-1em; margin-right:3em}
 .fine,.copyright,.figcopr	{font-size:10pt;color:#333333}
 .figref	{font-style:italic;font-size:10pt;color:#000040}
 .figCaption	{font-size:11pt;color:#000040}
-ul.tnav	{list-style-type:none;padding:5;margin-left:0;text-align:center}
+ul.tnav	{list-style-type:none;padding:5px;margin-left:0;text-align:center}
 .tnav li	{display:inline}
 .tnav a	{display:inline-block;border:1px solid #000;padding:5px;background-color:#00CFFF;text-decoration:none;color:#000;border-radius:5px;min-width:1.5em}
 .tnav a:visited	{color:#404000}
 .tnav a:link	{color:#000040}
 .tnav a:hover	{color:#FFFFFF;background-color:#204880}
 
-ul.vnav	{list-style-type:none;padding:5;margin-left:0;text-align:center;float:left}
+ul.vnav	{list-style-type:none;padding:5px;margin-left:0;text-align:center;float:left}
 .vnav li	{list-style-type:none}
-.vnav a	{display:block;padding:3px;background-color:#036;border-bottom:1px solid #eee;text-decoration:none;width:12em}
+.vnav a	{display:block;padding:3px;background-color:#036;border-bottom:1px solid #eee;text-decoration:none;width:12rem}
 .vnav a:visited	{color:#ffff66}
 .vnav a:link	{color: #ffffff}
 .vnav a:hover	{background-color:#0520ff !important;color:#ffffff}
 
-div.bookList	{float:left;margin:0px;padding:3px;width:13em;background:rgb(223,255,255)}
+div.bookList	{float:left;margin:0px;padding:3px;width:13rem;background:rgb(223,255,255)}
