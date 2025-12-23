@@ -1,0 +1,398 @@
+resource:
+  version: '{latest}'
+  media:
+    -
+     identifier: 'pdf'
+     version: '{latest}'
+     contributor: []
+     url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_v{latest}.pdf'
+
+projects:
+  -
+    identifier: 'gen'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_01-GEN_v{latest}.pdf'
+  -
+    identifier: 'exo'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_02-EXO_v{latest}.pdf'
+
+  -
+    identifier: 'lev'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_03-LEV_v{latest}.pdf'
+
+  -
+    identifier: 'num'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_04-NUM_v{latest}.pdf'
+
+  -
+    identifier: 'deu'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_05-DEU_v{latest}.pdf'
+
+  -
+    identifier: 'jos'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_06-JOS_v{latest}.pdf'
+
+  -
+    identifier: 'jdg'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_07-JDG_v{latest}.pdf'
+
+  -
+    identifier: 'rut'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_08-RUT_v{latest}.pdf'
+
+  -
+    identifier: '1sa'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_09-1SA_v{latest}.pdf'
+
+  -
+    identifier: '2sa'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_10-2SA_v{latest}.pdf'
+
+  -
+    identifier: '1ki'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_11-1KI_v{latest}.pdf'
+
+  -
+    identifier: '2ki'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_12-2KI_v{latest}.pdf'
+
+  -
+    identifier: '1ch'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_13-1CH_v{latest}.pdf'
+
+  -
+    identifier: '2ch'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_14-2CH_v{latest}.pdf'
+
+  -
+    identifier: 'ezr'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_15-EZR_v{latest}.pdf'
+
+  -
+    identifier: 'neh'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_16-NEH_v{latest}.pdf'
+
+  -
+    identifier: 'est'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_17-EST_v{latest}.pdf'
+
+  -
+    identifier: 'job'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_18-JOB_v{latest}.pdf'
+
+  -
+    identifier: 'psa'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_19-PSA_v{latest}.pdf'
+
+  -
+    identifier: 'pro'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_20-PRO_v{latest}.pdf'
+
+  -
+    identifier: 'ecc'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_21-ECC_v{latest}.pdf'
+
+  -
+    identifier: 'sng'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_22-SNG_v{latest}.pdf'
+
+  -
+    identifier: 'isa'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_23-ISA_v{latest}.pdf'
+
+  -
+    identifier: 'jer'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_24-JER_v{latest}.pdf'
+
+  -
+    identifier: 'lam'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_25-LAM_v{latest}.pdf'
+
+  -
+    identifier: 'ezk'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_26-EZK_v{latest}.pdf'
+
+  -
+    identifier: 'dan'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_27-DAN_v{latest}.pdf'
+
+  -
+    identifier: 'hos'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_28-HOS_v{latest}.pdf'
+
+  -
+    identifier: 'jol'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_29-JOL_v{latest}.pdf'
+
+  -
+    identifier: 'amo'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_30-AMO_v{latest}.pdf'
+
+  -
+    identifier: 'oba'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_31-OBA_v{latest}.pdf'
+
+  -
+    identifier: 'jon'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_32-JON_v{latest}.pdf'
+
+  -
+    identifier: 'mic'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_33-MIC_v{latest}.pdf'
+
+  -
+    identifier: 'nam'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_34-NAM_v{latest}.pdf'
+
+  -
+    identifier: 'hab'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_35-HAB_v{latest}.pdf'
+
+  -
+    identifier: 'zep'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_36-ZEP_v{latest}.pdf'
+
+  -
+    identifier: 'hag'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_37-HAG_v{latest}.pdf'
+
+  -
+    identifier: 'zec'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_38-ZEC_v{latest}.pdf'
+
+  -
+    identifier: 'mal'
+    version: '{latest}'
+    media:
+      -
+       identifier: 'pdf'
+       version: '{latest}'
+       contributor: []
+       url: 'https://cdn.door43.org/hbo/unfoldingWord/hbo_uhb/v{latest}/pdf/hbo_uhb_39-MAL_v{latest}.pdf'
